@@ -1,0 +1,34 @@
+# CMake generation dependency list for this directory.
+C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/GNUInstallDirs.cmake
+C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/cmake/macros.cmake
+C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/cmake/sdlchecks.cmake
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Program Files/CMake/share/cmake-3.7/Modules/CheckIncludeFile.c.in
+C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/include/SDL_config.h.cmake
+C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/cmake_uninstall.cmake.in

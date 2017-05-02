@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\admin\Documents\Visual Studio 2015\Projects\gafinal\build\ga5-win64\CMakeFiles\5d6c0e13ae233842a71c2b2a0e1cd263\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{67ABADC9-D852-39FF-BCFF-5BA444A7B39B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
