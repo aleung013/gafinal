@@ -1,4 +1,0 @@
-﻿  Building Custom Rule C:/Users/admin/Documents/Visual Studio 2015/Projects/gafinal/src/3rdparty/SDL2-2.0.5/CMakeLists.txt
-  CMake does not need to re-run because C:\Users\admin\Documents\Visual Studio 2015\Projects\gafinal\build\ga5-win64\SDL2-2.0.5\CMakeFiles\generate.stamp is up-to-date.
-  SDL_windows_main.c
-  SDL2main.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\gafinal\build\ga5-win64\SDL2-2.0.5\Debug\SDL2main.lib
